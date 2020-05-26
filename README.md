@@ -6,7 +6,7 @@
 
 ## Description
 
-_An HTML exercising to learn about indentation, spacing, HTML syntax, imbedding images and other links, and inline and block elements._
+_An HTML exercise to learn about indentation, spacing, HTML syntax, imbedding images and other links, and inline and block elements._
 
 ## Setup/Installation Requirements
 
