@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  color: green;
+  font-family: Impact;
+  font-size: 20;
+}
+
+h2 {
+  color: red;
+  text-align: left;
+  text-decoration: underline;
+}
+
+p {
+  font-family: serif;
+  line-height: 5;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
